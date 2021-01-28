@@ -201,3 +201,8 @@ header .logo
     font-size: 2em;
   }
 }
+/*.q {
+  margin: 0;
+  overflow: hidden;
+  background-color: antiquewhite;
+}
