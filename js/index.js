@@ -6,7 +6,7 @@
         showcase.classList.toggle('active');
       })
 
-     /* const s = window.screen;
+      /*const s = window.screen;
 const w = (q.width = s.width);
 const h = (q.height = s.height);
 const ctx = q.getContext("2d");
@@ -26,4 +26,6 @@ setInterval(() => {
     p[i] = v >= h || v > 50 + 10000 * Math.random() ? 0 : v + 10;
   });
 }, 1000 / 30);*/
+
+
 
