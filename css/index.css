@@ -206,3 +206,19 @@ header .logo
   overflow: hidden;
   background-color: antiquewhite;
 }*/
+
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+
+body {
+  background-color: #121212;
+}
+
+#clock {
+  font-family: 'Orbitron', sans-serif;
+  color:palevioletred;
+  font-size: 56px;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color:papayawhip;
+}
